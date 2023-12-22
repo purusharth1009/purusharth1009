@@ -1,4 +1,4 @@
--👋 Hi, I’m @purusharth1009
+👋 Hi, I’m @purusharth1009
 -📝 I'm currently working on web devp
 -🤝 I'm looking for Collaborative development
 -📊 I'm learning Full Stack web Development
