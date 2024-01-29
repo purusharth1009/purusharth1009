@@ -31,14 +31,12 @@
     <img src="https://skillicons.dev/icons?i=git,css,visualstudio,discord,github"/><br>
     <img src="https://skillicons.dev/icons?i=html,js,netlify,react,replit,stackoverflow,vscode,python"/>
   </a>
-</p>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=purusharth1009&show_icons=true&locale=en&layout=compact" alt="purusharth1009" /></p>
+</p><br>
+<h2 align="center" >⚒️ Stats ⚒️</h2>
+<div align="center" >
+<p><img width=390 src="https://github-readme-stats.vercel.app/api/top-langs?username=purusharth1009&show_icons=true&locale=en&layout=compact" alt="purusharth1009" /></p>
 
-<p>&nbsp;<img align="bottom" src="https://github-readme-stats.vercel.app/api?username=purusharth1009&show_icons=true&locale=en" alt="purusharth1009" /></p>
+<p><img  width=390  src="https://github-readme-stats.vercel.app/api?username=purusharth1009&show_icons=true&locale=en" alt="purusharth1009" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=purusharth1009&" alt="purusharth1009" /></p>
+<p><img  width=390  src="https://github-readme-streak-stats.herokuapp.com/?user=purusharth1009&" alt="purusharth1009" /></p>
+</div>
